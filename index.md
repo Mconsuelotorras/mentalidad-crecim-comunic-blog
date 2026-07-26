@@ -2,9 +2,9 @@
 ---
 # Producto Nuevo, Canales Desincronizados: Un Post-Mortem sobre Comunicación y Procesos en un Emprendimiento Gastronómico
 
-   ## Introducción
-   
-   En un emprendimiento gastronómico en crecimiento, la comunicación entre lo que ocurre en el local físico y lo que se muestra en los canales digitales no es un detalle menor: es parte de la experiencia de compra. Este post documenta un incidente real ocurrido durante el lanzamiento de un nuevo producto, analiza sus causas raíz mediante un post-mortem constructivo, y describe el proceso implementado a partir de una mentalidad de crecimiento para evitar que se repita.
+## Introducción
+
+En un emprendimiento gastronómico en crecimiento, la comunicación entre lo que ocurre en el local físico y lo que se muestra en los canales digitales no es un detalle menor: es parte de la experiencia de compra. Este post documenta un incidente real ocurrido durante el lanzamiento de un nuevo producto, analiza sus causas raíz mediante un post-mortem constructivo, y describe el proceso implementado a partir de una mentalidad de crecimiento para evitar que se repita.
 
    ## Contexto
    
