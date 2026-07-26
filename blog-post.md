@@ -17,8 +17,18 @@ Causas raíz identificadas:
 
 
    ## Acciones
+   Para resolver el problema de fondo, y no solo el caso puntual, se implementaron los siguientes cambios de proceso:
+•	Calendario de lanzamiento de productos: cada producto nuevo se planifica con fecha de salida definida de antemano, visible para todo el equipo.
+•	Regla de sincronización same-day: el mismo día en que un producto se habilita en el local, se actualiza en simultáneo la comunicación en redes sociales y la disponibilidad en la plataforma de pedidos. Ningún canal queda adelantado ni atrasado respecto de los demás.
+•	Checklist previo a cada lanzamiento: antes de anunciar un producto nuevo en redes, se verifica que ya esté cargado en la plataforma de pedidos, evitando generar expectativa sobre algo que el cliente todavía no puede pedir online.
+
 
    ## Aprendizajes
+   •	Un error de coordinación no constituye un fracaso individual, sino información sobre un proceso que faltaba definir. Abordarlo como oportunidad de mejora, en lugar de minimizarlo, resultó clave para resolverlo de raíz.
+•	La comunicación entre áreas de un emprendimiento pequeño no puede depender de la memoria o la buena voluntad de las personas involucradas: requiere un sistema, por simple que sea.
+•	Detectar un problema a través de un cliente, en lugar de mediante monitoreo interno, constituye una señal de alerta en sí misma: indica la ausencia de una instancia de revisión previa a que el problema llegue al cliente.
+•	La previsión, mediante la planificación anticipada de lanzamientos, resulta más sostenible que la corrección apresurada después de cada error.
+
 
    ## Control de versiones
 
