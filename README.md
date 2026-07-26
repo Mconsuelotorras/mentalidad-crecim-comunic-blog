@@ -1,4 +1,5 @@
-
+---
+---
 # Producto nuevo, Canales Desincronizados: Un Post-Mortem sobre Comunicación y Procesos en un Emprendimiento Gastronómico
 
    ## Introducción
